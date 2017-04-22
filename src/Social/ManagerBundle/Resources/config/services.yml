@@ -1,0 +1,11 @@
+services:
+    social_manager_locale.locale_listener:
+        class: Social\ManagerBundle\EventListener\LocaleListener
+        arguments: ["%kernel.default_locale%"]
+        tags:
+            - { name: kernel.event_subscriber }
+#    social_manager_exception_listener:
+#        class: Social\ManagerBundle\EventListener\ExceptionListener
+#        arguments: [@templating, @kernel]
+#        tags:
+#            - { name: kernel.event_listener, event: kernel.exception, method: onKernelException }

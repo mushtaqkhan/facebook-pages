@@ -1,0 +1,55 @@
+Social\ManagerBundle\Entity\Tokens:
+    type: entity
+    table: Tokens
+    repositoryClass: Social\ManagerBundle\Entity\TokensRepository
+    indexes:
+        u_id:
+            columns:
+                - u_id
+        p_id:
+            columns:
+                - p_id
+        type:
+            columns:
+                - type
+#    uniqueConstraints:
+#        u_p_id:
+#            columns: [u_id, p_id]
+    id:
+        id:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            generator:
+                strategy: IDENTITY
+    fields:
+        u_id:
+            type: integer
+            default: '0'
+        title:
+            type: string
+            nullable: false
+            length: 100
+            fixed: false
+            comment: ''
+        p_id:
+            type: string
+            nullable: false
+            length: 100
+            fixed: false
+            comment: ''
+        type:
+            type: string
+            nullable: false
+            length: 100
+            fixed: false
+            comment: ''
+        token_facebook:
+            type: string
+            nullable: false
+            length: 1000
+            fixed: false
+            comment: ''
+    lifecycleCallbacks: {  }

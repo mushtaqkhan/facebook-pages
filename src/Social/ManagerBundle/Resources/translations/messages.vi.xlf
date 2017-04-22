@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="vi" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="1">
+                <source>Facebook Pages/Groups Feeds Manager Pro</source>
+                <target>Facebook Pages/Groups Feeds Manager Pro</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>Close</source>
+                <target>Đóng</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>Copyright © 2015</source>
+                <target>Copyright © 2015</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Sign up</source>
+                <target>Đăng ký</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>Scroll To Top</source>
+                <target>Lên đầu trang</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Log in</source>
+                <target>Đăng nhập</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>Create Account</source>
+                <target>Tạo tài khoản</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Sign up with Facebook</source>
+                <target>Đăng ký bằng Facebook</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Email address</source>
+                <target>Địa chỉ Email</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>Password</source>
+                <target>Mật khẩu</target>
+            </trans-unit>
+            <trans-unit id="11">
+                <source>Sign up for free</source>
+                <target>Đăng ký miễn phí</target>
+            </trans-unit>
+            <trans-unit id="12">
+                <source>Login</source>
+                <target>Đăng nhập</target>
+            </trans-unit>
+            <trans-unit id="13">
+                <source>Log in with Facebook</source>
+                <target>Đăng nhập bằng Facebook</target>
+            </trans-unit>
+            <trans-unit id="14">
+                <source>Not Found.</source>
+                <target>Không tìm thấy.</target>
+            </trans-unit>
+            <trans-unit id="15">
+                <source>Error 404!</source>
+                <target>Lỗi 404!</target>
+            </trans-unit>
+            <trans-unit id="16">
+                <source>Back Homepage</source>
+                <target>Về trang chủ</target>
+            </trans-unit>
+            <trans-unit id="17">
+                <source>My Feeds</source>
+                <target>Trạng thái của tôi</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>Type</source>
+                <target>Kiểu</target>
+            </trans-unit>
+            <trans-unit id="19">
+                <source>Page / Group Name</source>
+                <target>Tên Page / Group</target>
+            </trans-unit>
+            <trans-unit id="20">
+                <source>Page / Group Id</source>
+                <target>Id Page / Group</target>
+            </trans-unit>
+            <trans-unit id="21">
+                <source>Schedule Feed</source>
+                <target>Đặt lịch</target>
+            </trans-unit>
+            <trans-unit id="22">
+                <source>Status</source>
+                <target>Trạng thái</target>
+            </trans-unit>
+            <trans-unit id="23">
+                <source>View</source>
+                <target>Xem</target>
+            </trans-unit>
+            <trans-unit id="24">
+                <source>Delete</source>
+                <target>Xóa</target>
+            </trans-unit>
+            <trans-unit id="25">
+                <source>Pending</source>
+                <target>Đang chờ</target>
+            </trans-unit>
+            <trans-unit id="26">
+                <source>Feeded</source>
+                <target>Đã đăng</target>
+            </trans-unit>
+            <trans-unit id="27">
+                <source>No Data</source>
+                <target>Không có dữ liệu</target>
+            </trans-unit>
+            <trans-unit id="28">
+                <source>Feed</source>
+                <target>Feed</target>
+            </trans-unit>
+            <trans-unit id="29">
+                <source>Please try again.</source>
+                <target>Hãy thử lại.</target>
+            </trans-unit>
+            <trans-unit id="30">
+                <source>Error!</source>
+                <target>Lỗi!</target>
+            </trans-unit>
+            <trans-unit id="31">
+                <source>Link URL</source>
+                <target>Link URL</target>
+            </trans-unit>
+            <trans-unit id="32">
+                <source>Message</source>
+                <target>Message</target>
+            </trans-unit>
+            <trans-unit id="33">
+                <source>Title</source>
+                <target>Tiêu đề</target>
+            </trans-unit>
+            <trans-unit id="34">
+                <source>Description</source>
+                <target>Nội dung</target>
+            </trans-unit>
+            <trans-unit id="35">
+                <source>Link Caption</source>
+                <target>Link Caption</target>
+            </trans-unit>
+            <trans-unit id="36">
+                <source>URL</source>
+                <target>URL</target>
+            </trans-unit>
+            <trans-unit id="37">
+                <source>Feed Schedule</source>
+                <target>Lịch Feed</target>
+            </trans-unit>
+            <trans-unit id="38">
+                <source>Choose Pages / Groups</source>
+                <target>Chọn Pages / Groups</target>
+            </trans-unit>
+            <trans-unit id="39">
+                <source>Done</source>
+                <target>Xong</target>
+            </trans-unit>
+            <trans-unit id="40">
+                <source>Search</source>
+                <target>Tìm kiếm</target>
+            </trans-unit>
+            <trans-unit id="41">
+                <source>Submit</source>
+                <target>Submit</target>
+            </trans-unit>
+            <trans-unit id="42">
+                <source>My Pages / Groups</source>
+                <target>Pages / Groups của tôi</target>
+            </trans-unit>
+            <trans-unit id="43">
+                <source>Re-Author Pages/Groups</source>
+                <target>Re-Author Pages/Groups</target>
+            </trans-unit>
+            <trans-unit id="44">
+                <source>Name</source>
+                <target>Tên</target>
+            </trans-unit>
+            <trans-unit id="45">
+                <source>Page/Group</source>
+                <target>Page/Group</target>
+            </trans-unit>
+            <trans-unit id="46">
+                <source>Group</source>
+                <target>Nhóm</target>
+            </trans-unit>
+            <trans-unit id="47">
+                <source>Pages / Groups Manager</source>
+                <target>Quản lý Pages / Groups</target>
+            </trans-unit>
+            <trans-unit id="48">
+                <source>Feeds Manager</source>
+                <target>Quản lý Nội dung</target>
+            </trans-unit>
+            <trans-unit id="49">
+                <source>New Text Feed</source>
+                <target>Đăng văn bản Mới</target>
+            </trans-unit>
+            <trans-unit id="50">
+                <source>New Link Feed</source>
+                <target>Đăng đường dẫn Mới</target>
+            </trans-unit>
+            <trans-unit id="51">
+                <source>New Image Feed</source>
+                <target>Đăng Ảnh Mới</target>
+            </trans-unit>
+            <trans-unit id="52">
+                <source>New Video Feed</source>
+                <target>Đăng Video Mới</target>
+            </trans-unit>
+            <trans-unit id="53">
+                <source>Account Settings</source>
+                <target>Cài đặt tài khoản</target>
+            </trans-unit>
+            <trans-unit id="54">
+                <source>Profile</source>
+                <target>Thông tin tài khoản</target>
+            </trans-unit>
+            <trans-unit id="55">
+                <source>Log out</source>
+                <target>Thoát</target>
+            </trans-unit>
+            <trans-unit id="56">
+                <source>Link Facebook</source>
+                <target>Liên kết Facebook</target>
+            </trans-unit>
+            <trans-unit id="57">
+                <source>Change Password Success!</source>
+                <target>Đổi mật khẩu thành công!</target>
+            </trans-unit>
+            <trans-unit id="58">
+                <source>Can't Change Password!</source>
+                <target>Không thể đổi mật khẩu!</target>
+            </trans-unit>
+            <trans-unit id="59">
+                <source>Name</source>
+                <target>Tên</target>
+            </trans-unit>
+            <trans-unit id="60">
+                <source>Email</source>
+                <target>Email</target>
+            </trans-unit>
+            <trans-unit id="61">
+                <source>Admin</source>
+                <target>Quản trị</target>
+            </trans-unit>
+            <trans-unit id="62">
+                <source>Current password</source>
+                <target>Mật khẩu hiện tại</target>
+            </trans-unit>
+            <trans-unit id="63">
+                <source>New password</source>
+                <target>Mật khẩu mới</target>
+            </trans-unit>
+            <trans-unit id="64">
+                <source>Confirm new password</source>
+                <target>Xác nhận mật khẩu mới</target>
+            </trans-unit>
+            <trans-unit id="65">
+                <source>Update</source>
+                <target>Cập nhật</target>
+            </trans-unit>
+            <trans-unit id="66">
+                <source>Please Login.</source>
+                <target>Hãy đăng nhập.</target>
+            </trans-unit>
+            <trans-unit id="67">
+                <source>Only View on Demo Mode.</source>
+                <target>Chỉ được xem ở chế độ Demo.</target>
+            </trans-unit>
+            <trans-unit id="68">
+                <source>Feed Not Found.</source>
+                <target>Không tìm thấy Nội dung.</target>
+            </trans-unit>
+            <trans-unit id="69">
+                <source>4 methods can use for feed to facebook...</source>
+                <target>4 phương thức sử dụng để đăng tải nội dung lên facebook...</target>
+            </trans-unit>
+            <trans-unit id="70">
+                <source>Feeds to Pages / Groups you manager.</source>
+                <target>Đăng tải nội dung lên Pages / Groups bạn quản trị.</target>
+            </trans-unit>
+            <trans-unit id="71">
+                <source>Custom Manager or delete page, group don't wan't feed.</source>
+                <target>Quản trị hoặc xóa Page, Group không muốn đăng feed.</target>
+            </trans-unit>
+            <trans-unit id="72">
+                <source>Simple Admin management users, feeds hostory.</source>
+                <target>Quản lý thành viên, lịch sử feed dễ dàng.</target>
+            </trans-unit>
+            <trans-unit id="73">
+                <source>Made easy and fastest to deploy your feeds to facebook.</source>
+                <target>Cách đơn giản và nhanh chóng đăng tải nội dung lên facebook.</target>
+            </trans-unit>
+            <trans-unit id="74">
+                <source>Administator</source>
+                <target>Quản trị viên</target>
+            </trans-unit>
+            <trans-unit id="75">
+                <source>List Pages / Groups</source>
+                <target>Danh sách Pages / Groups</target>
+            </trans-unit>
+            <trans-unit id="76">
+                <source>List Feeds</source>
+                <target>Danh sách Nội dung</target>
+            </trans-unit>
+            <trans-unit id="77">
+                <source>List Users</source>
+                <target>Danh sách Thành viên</target>
+            </trans-unit>
+            <trans-unit id="78">
+                <source>Only Admin Can use this action on Demo Mode.</source>
+                <target>Quản trị viên mới có quyền sử dụng tính năng này ở chế độ dùng thử.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

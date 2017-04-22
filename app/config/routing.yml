@@ -1,0 +1,3 @@
+social_manager:
+    resource: "@SocialManagerBundle/Resources/config/routing.yml"
+    prefix:   /

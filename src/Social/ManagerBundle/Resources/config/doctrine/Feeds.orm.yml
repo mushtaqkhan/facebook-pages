@@ -1,0 +1,122 @@
+Social\ManagerBundle\Entity\Feeds:
+    type: entity
+    table: Feeds
+    repositoryClass: Social\ManagerBundle\Entity\FeedsRepository
+    indexes:
+        p_id:
+            columns:
+                - p_id
+        u_id:
+            columns:
+                - u_id
+        feed_update_count:
+            columns:
+                - feed_update_count
+        type_feed:
+            columns:
+                - type_feed
+        status:
+            columns:
+                - status
+        time_post:
+            columns:
+                - time_post
+    id:
+        id:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            generator:
+                strategy: IDENTITY
+    fields:
+        u_id:
+            type: integer
+            default: '0'
+        name:
+            type: string
+            nullable: false
+            length: 255
+            fixed: false
+            comment: ''
+        p_id:
+            type: string
+            nullable: false
+            length: 100
+            fixed: false
+            comment: ''
+        type_page:
+            type: string
+            nullable: false
+            length: 10
+            fixed: false
+            comment: ''
+        feed_update_count:
+            type: integer
+            default: '0'
+        type_feed:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+        message:
+            type: string
+            nullable: false
+            length: 2000
+            fixed: false
+            comment: ''
+        description:
+            type: string
+            nullable: false
+            length: 2000
+            fixed: false
+            comment: ''
+        caption:
+            type: string
+            nullable: false
+            length: 2000
+            fixed: false
+            comment: ''
+        link_title:
+            type: string
+            nullable: false
+            length: 255
+            fixed: false
+            comment: ''
+        link_url:
+            type: string
+            nullable: false
+            length: 255
+            fixed: false
+            comment: ''
+        image_url:
+            type: string
+            nullable: false
+            length: 255
+            fixed: false
+            comment: ''
+        time_post:
+            type: integer
+            default: '0'
+        status:
+            type: integer
+            default: '0'
+        feed_id:
+            type: string
+            nullable: false
+            length: 100
+            fixed: false
+            comment: ''
+        createdAt:
+            type: datetime
+            nullable: false
+            comment: ''
+            column: created_at
+        updatedAt:
+            type: datetime
+            nullable: false
+            comment: ''
+            column: updated_at
+    lifecycleCallbacks: {  }

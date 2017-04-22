@@ -1,0 +1,87 @@
+_homepage:
+    path:     /
+    defaults: { _controller: SocialManagerBundle:Default:index }
+    
+indexFixed:
+    path:     /indexFixed
+    defaults: { _controller: SocialManagerBundle:Default:indexFixed }
+
+_set_lang:
+    path:     /set_lang
+    defaults: { _controller: SocialManagerBundle:Default:setLang }
+    
+menu:
+    path:     /system/menu
+    defaults: { _controller: SocialManagerBundle:Default:menu }
+
+register:
+    path:     /oauth/sign_up/{fb}
+    defaults: { _controller: SocialManagerBundle:Users:register, fb: 0 }
+    
+_login:
+    path:     /oauth/sign_in
+    defaults: { _controller: SocialManagerBundle:Users:login }
+
+_logout:
+    path:     /oauth/sign_out
+    defaults: { _controller: SocialManagerBundle:Users:logout }
+    
+menuUser:
+    path:     /user/userMenu
+    defaults: { _controller: SocialManagerBundle:Users:menuUser }
+
+_user:
+    path:     /user/profile
+    defaults: { _controller: SocialManagerBundle:Users:profile }
+
+_my_page:
+    path:     /my_page
+    defaults: { _controller: SocialManagerBundle:Groups:myPage }
+    
+_del_page:
+    path:     /my_page/del-{id}
+    defaults: { _controller: SocialManagerBundle:Groups:delete, id: 0 }
+
+_my_feed:
+    path:     /my_feed
+    defaults: { _controller: SocialManagerBundle:Feeds:myFeed }
+    
+_del_feed:
+    path:     /my_feed/del-{u_id}
+    defaults: { _controller: SocialManagerBundle:Feeds:delete, u_id: 0 }
+    
+_edit_feed:
+    path:     /my_feed/edit/{title}/{u_id}
+    defaults: { _controller: SocialManagerBundle:Feeds:edit, u_id: 0, title: null }
+
+_new_feed:
+    path:     /new_feed/{title}
+    defaults: { _controller: SocialManagerBundle:Feeds:newFeed, title: null }
+
+_admin_page:
+    path:     /system/admin_page
+    defaults: { _controller: SocialManagerBundle:Admin:myPage }
+
+_admin_feed:
+    path:     /system/admin_feed
+    defaults: { _controller: SocialManagerBundle:Admin:myfeed }
+
+_admin_user:
+    path:     /system/admin_user
+    defaults: { _controller: SocialManagerBundle:Admin:myUser }
+    
+_admin_del_feed:
+    path:     /system/admin_feed/del-{id}
+    defaults: { _controller: SocialManagerBundle:Admin:delete, id: 0 }
+    
+_admin_del_page:
+    path:     /system/admin_page/del-{id}
+    defaults: { _controller: SocialManagerBundle:Admin:deletePage, id: 0 }
+    
+_admin_del_user:
+    path:     /system/admin_user/del-{id}
+    defaults: { _controller: SocialManagerBundle:Admin:deleteUser, id: 0 }
+    
+_admin_edit_user:
+    path:     /system/admin_user/edit-{id}
+    defaults: { _controller: SocialManagerBundle:Admin:editUser, id: 0 }

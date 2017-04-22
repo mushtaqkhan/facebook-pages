@@ -1,0 +1,62 @@
+Social\ManagerBundle\Entity\Users:
+    type: entity
+    table: Users
+    repositoryClass: Social\ManagerBundle\Entity\UsersRepository
+    indexes:
+        email:
+            columns:
+                - email
+    id:
+        id:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            generator:
+                strategy: IDENTITY
+    fields:
+        name:
+            type: string
+            nullable: false
+            length: 255
+            fixed: false
+            comment: ''
+        email:
+            type: string
+            nullable: false
+            length: 50
+            fixed: false
+            comment: ''
+        password:
+            type: string
+            nullable: false
+            length: 100
+            fixed: false
+            comment: ''
+        token_facebook:
+            type: string
+            nullable: false
+            length: 1000
+            fixed: false
+            comment: ''
+        facebook_id:
+            type: string
+            nullable: false
+            length: 50
+            fixed: false
+            comment: ''
+        supper:
+            type: integer
+            default: '0'
+        createdAt:
+            type: datetime
+            nullable: false
+            comment: ''
+            column: created_at
+        updatedAt:
+            type: datetime
+            nullable: false
+            comment: ''
+            column: updated_at
+    lifecycleCallbacks: {  }

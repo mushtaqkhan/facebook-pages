@@ -1,0 +1,18 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: facebook
+    database_user: root
+    database_password: null
+    mailer_transport: null
+    mailer_host: null
+    mailer_port: null
+    mailer_user: null
+    mailer_password: null
+    mailer_encryption: null
+    locale: en
+    secret: 80a104c20f26d2a6172513f929059b9009db2be8
+    limit: 12
+    page: 10

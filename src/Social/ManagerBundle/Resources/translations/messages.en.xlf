@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="1">
+                <source>Facebook Pages/Groups Feeds Manager Pro</source>
+                <target>Facebook Pages/Groups Feeds Manager Pro</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>Close</source>
+                <target>Close</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>Copyright © 2015</source>
+                <target>Copyright © 2015</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Sign up</source>
+                <target>Sign up</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>Scroll To Top</source>
+                <target>Scroll To Top</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Log in</source>
+                <target>Log in</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>Create Account</source>
+                <target>Create Account</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Sign up with Facebook</source>
+                <target>Sign up with Facebook</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Email address</source>
+                <target>Email address</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>Password</source>
+                <target>Password</target>
+            </trans-unit>
+            <trans-unit id="11">
+                <source>Sign up for free</source>
+                <target>Sign up for free</target>
+            </trans-unit>
+            <trans-unit id="12">
+                <source>Login</source>
+                <target>Login</target>
+            </trans-unit>
+            <trans-unit id="13">
+                <source>Log in with Facebook</source>
+                <target>Log in with Facebook</target>
+            </trans-unit>
+            <trans-unit id="14">
+                <source>Not Found.</source>
+                <target>Not Found.</target>
+            </trans-unit>
+            <trans-unit id="15">
+                <source>Error 404!</source>
+                <target>Error 404!</target>
+            </trans-unit>
+            <trans-unit id="16">
+                <source>Back Homepage</source>
+                <target>Back Homepage</target>
+            </trans-unit>
+            <trans-unit id="17">
+                <source>My Feeds</source>
+                <target>My Feeds</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>Type</source>
+                <target>Type</target>
+            </trans-unit>
+            <trans-unit id="19">
+                <source>Page / Group Name</source>
+                <target>Page / Group Name</target>
+            </trans-unit>
+            <trans-unit id="20">
+                <source>Page / Group Id</source>
+                <target>Page / Group Id</target>
+            </trans-unit>
+            <trans-unit id="21">
+                <source>Schedule Feed</source>
+                <target>Schedule Feed</target>
+            </trans-unit>
+            <trans-unit id="22">
+                <source>Status</source>
+                <target>Status</target>
+            </trans-unit>
+            <trans-unit id="23">
+                <source>View</source>
+                <target>View</target>
+            </trans-unit>
+            <trans-unit id="24">
+                <source>Delete</source>
+                <target>Delete</target>
+            </trans-unit>
+            <trans-unit id="25">
+                <source>Pending</source>
+                <target>Pending</target>
+            </trans-unit>
+            <trans-unit id="26">
+                <source>Feeded</source>
+                <target>Feeded</target>
+            </trans-unit>
+            <trans-unit id="27">
+                <source>No Data</source>
+                <target>No Data</target>
+            </trans-unit>
+            <trans-unit id="28">
+                <source>Feed</source>
+                <target>Feed</target>
+            </trans-unit>
+            <trans-unit id="29">
+                <source>Please try again.</source>
+                <target>Please try again.</target>
+            </trans-unit>
+            <trans-unit id="30">
+                <source>Error!</source>
+                <target>Error!</target>
+            </trans-unit>
+            <trans-unit id="31">
+                <source>Link URL</source>
+                <target>Link URL</target>
+            </trans-unit>
+            <trans-unit id="32">
+                <source>Message</source>
+                <target>Message</target>
+            </trans-unit>
+            <trans-unit id="33">
+                <source>Title</source>
+                <target>Title</target>
+            </trans-unit>
+            <trans-unit id="34">
+                <source>Description</source>
+                <target>Description</target>
+            </trans-unit>
+            <trans-unit id="35">
+                <source>Link Caption</source>
+                <target>Link Caption</target>
+            </trans-unit>
+            <trans-unit id="36">
+                <source>URL</source>
+                <target>URL</target>
+            </trans-unit>
+            <trans-unit id="37">
+                <source>Feed Schedule</source>
+                <target>Feed Schedule</target>
+            </trans-unit>
+            <trans-unit id="38">
+                <source>Choose Pages / Groups</source>
+                <target>Choose Pages / Groups</target>
+            </trans-unit>
+            <trans-unit id="39">
+                <source>Done</source>
+                <target>Done</target>
+            </trans-unit>
+            <trans-unit id="40">
+                <source>Search</source>
+                <target>Search</target>
+            </trans-unit>
+            <trans-unit id="41">
+                <source>Submit</source>
+                <target>Submit</target>
+            </trans-unit>
+            <trans-unit id="42">
+                <source>My Pages / Groups</source>
+                <target>My Pages / Groups</target>
+            </trans-unit>
+            <trans-unit id="43">
+                <source>Re-Author Pages/Groups</source>
+                <target>Re-Author Pages/Groups</target>
+            </trans-unit>
+            <trans-unit id="44">
+                <source>Name</source>
+                <target>Name</target>
+            </trans-unit>
+            <trans-unit id="45">
+                <source>Page/Group</source>
+                <target>Page/Group</target>
+            </trans-unit>
+            <trans-unit id="46">
+                <source>Group</source>
+                <target>Group</target>
+            </trans-unit>
+            <trans-unit id="47">
+                <source>Pages / Groups Manager</source>
+                <target>Pages / Groups Manager</target>
+            </trans-unit>
+            <trans-unit id="48">
+                <source>Feeds Manager</source>
+                <target>Feeds Manager</target>
+            </trans-unit>
+            <trans-unit id="49">
+                <source>New Text Feed</source>
+                <target>New Text Feed</target>
+            </trans-unit>
+            <trans-unit id="50">
+                <source>New Link Feed</source>
+                <target>New Link Feed</target>
+            </trans-unit>
+            <trans-unit id="51">
+                <source>New Image Feed</source>
+                <target>New Image Feed</target>
+            </trans-unit>
+            <trans-unit id="52">
+                <source>New Video Feed</source>
+                <target>New Video Feed</target>
+            </trans-unit>
+            <trans-unit id="53">
+                <source>Account Settings</source>
+                <target>Account Settings</target>
+            </trans-unit>
+            <trans-unit id="54">
+                <source>Profile</source>
+                <target>Profile</target>
+            </trans-unit>
+            <trans-unit id="55">
+                <source>Log out</source>
+                <target>Log out</target>
+            </trans-unit>
+            <trans-unit id="56">
+                <source>Link Facebook</source>
+                <target>Link Facebook</target>
+            </trans-unit>
+            <trans-unit id="57">
+                <source>Change Password Success!</source>
+                <target>Change Password Success!</target>
+            </trans-unit>
+            <trans-unit id="58">
+                <source>Can't Change Password!</source>
+                <target>Can't Change Password!</target>
+            </trans-unit>
+            <trans-unit id="59">
+                <source>Name</source>
+                <target>Name</target>
+            </trans-unit>
+            <trans-unit id="60">
+                <source>Email</source>
+                <target>Email</target>
+            </trans-unit>
+            <trans-unit id="61">
+                <source>Admin</source>
+                <target>Admin</target>
+            </trans-unit>
+            <trans-unit id="62">
+                <source>Current password</source>
+                <target>Current password</target>
+            </trans-unit>
+            <trans-unit id="63">
+                <source>New password</source>
+                <target>New password</target>
+            </trans-unit>
+            <trans-unit id="64">
+                <source>Confirm new password</source>
+                <target>Confirm new password</target>
+            </trans-unit>
+            <trans-unit id="65">
+                <source>Update</source>
+                <target>Update</target>
+            </trans-unit>
+            <trans-unit id="66">
+                <source>Please Login.</source>
+                <target>Please Login.</target>
+            </trans-unit>
+            <trans-unit id="67">
+                <source>Only View on Demo Mode.</source>
+                <target>Only View on Demo Mode.</target>
+            </trans-unit>
+            <trans-unit id="68">
+                <source>Feed Not Found.</source>
+                <target>Feed Not Found.</target>
+            </trans-unit>
+            <trans-unit id="69">
+                <source>4 methods can use for feed to facebook...</source>
+                <target>4 methods can use for feed to facebook...</target>
+            </trans-unit>
+            <trans-unit id="70">
+                <source>Feeds to Pages / Groups you manager.</source>
+                <target>Feeds to Pages / Groups you manager.</target>
+            </trans-unit>
+            <trans-unit id="71">
+                <source>Custom Manager or delete page, group don't wan't feed.</source>
+                <target>Custom Manager or delete page, group don't wan't feed.</target>
+            </trans-unit>
+            <trans-unit id="72">
+                <source>Simple Admin management users, feeds hostory.</source>
+                <target>Simple Admin management users, feeds hostory.</target>
+            </trans-unit>
+            <trans-unit id="73">
+                <source>Made easy and fastest to deploy your feeds to facebook.</source>
+                <target>Made easy and fastest to deploy your feeds to facebook.</target>
+            </trans-unit>
+            <trans-unit id="74">
+                <source>Administator</source>
+                <target>Administator</target>
+            </trans-unit>
+            <trans-unit id="75">
+                <source>List Pages / Groups</source>
+                <target>List Pages / Groups</target>
+            </trans-unit>
+            <trans-unit id="76">
+                <source>List Feeds</source>
+                <target>List Feeds</target>
+            </trans-unit>
+            <trans-unit id="77">
+                <source>List Users</source>
+                <target>List Users</target>
+            </trans-unit>
+            <trans-unit id="78">
+                <source>Only Admin Can use this action on Demo Mode.</source>
+                <target>Only Admin Can use this action on Demo Mode.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
